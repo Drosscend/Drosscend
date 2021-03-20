@@ -1,7 +1,6 @@
 ### Bonjour à tous👋
 
-</b>
-</font>
+
 <br />
 <br />
 
