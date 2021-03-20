@@ -1,5 +1,12 @@
 ### Bonjour à tous👋
 
+<style>
+  div{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+  }
+</style>
 
 <br />
 <br />
@@ -9,9 +16,11 @@ Mon nom est <a href="https://kevin-dev.me" target="_blank">Kévin</a>, je suis u
 <br />
 <br />
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Drosscend&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drosscend&show_icons=true&theme=radical&layout=compact" />
-</a>
+<div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Drosscend&show_icons=true&theme=radical" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drosscend&show_icons=true&theme=radical&layout=compact" />
+  </a>
+</div>
