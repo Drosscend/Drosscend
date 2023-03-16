@@ -3,7 +3,7 @@
 <br />
 <br />
 
-Mon nom est <a href="https://portfolio-kevin-dev.netlify.app/" target="_blank">Kévin</a>, je suis un jeune développeur de 20 ans, qui cherche à s'améliorer. Je fait actuellemnt des sites internet en <strong>HTML</strong>, <strong>CSS</strong> et <strong>JS</strong>.
+Mon nom est <a href="https://kevin-dev.com/">Kévin</a>, j'ai actuellement 21 ans et je suis en licence LP APSIO.
 
 <br />
 <br />
