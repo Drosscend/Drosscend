@@ -3,7 +3,7 @@
 <br />
 <br />
 
-Mon nom est <a href="https://kevin-dev.com/">Kévin</a>, j'ai actuellement 21 ans et je suis en licence LP APSIO.
+Mon nom est <a href="https://kevin-dev.com/">Kévin</a>, j'ai actuellement 21 ans et je suis en première année d'un Master ICE.
 
 <br />
 <br />
