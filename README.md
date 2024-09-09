@@ -3,7 +3,7 @@
 <br />
 <br />
 
-Mon nom est <a href="https://kevin-dev.com/">Kévin</a>, j'ai actuellement 21 ans et je suis en première année d'un Master ICE.
+Mon nom est <a href="https://kevin-dev.com/">Kévin</a>, j'ai actuellement 22 ans et je suis en seconde année d'un Master ICE.
 
 <br />
 <br />
